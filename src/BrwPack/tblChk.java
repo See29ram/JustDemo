@@ -44,7 +44,7 @@ public class tblChk {
 		    	System.out.println("Rank "+tds.get(0).getText());
 		    }
 		    
-		    
+		    System.out.println("Added in dev");
 			
 			
 		}
