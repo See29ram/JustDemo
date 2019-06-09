@@ -32,6 +32,7 @@ public class alertEx {
 			System.out.println(act.getText());
 			act.dismiss();
 			Thread.sleep(2000);
+			System.out.println("Last Code");
 			
 			
 			
