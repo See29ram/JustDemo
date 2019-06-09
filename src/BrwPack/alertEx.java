@@ -33,6 +33,7 @@ public class alertEx {
 			act.dismiss();
 			Thread.sleep(2000);
 			System.out.println("Last Code");
+			system.out.println("Above is not last code");
 			
 			
 			

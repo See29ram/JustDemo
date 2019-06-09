@@ -28,7 +28,7 @@ public class ddl {
 			Select sel=new Select(dr.findElement(By.id("carselect")));
 			sel.selectByVisibleText("Honda");
 			Thread.sleep(3000);
-			
+			System.out.println("Exception...will coccur");
 			
 			
 			
